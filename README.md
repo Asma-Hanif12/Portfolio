@@ -2,7 +2,7 @@
 
 ## Software Quality Assurance Engineer
 
-I am a **Software Quality Assurance (SQA) Engineer** with 1+ years of experience in **Manual Testing, Automation Testing, API Testing, and Agile Scrum**. I specialize in ensuring software quality across web and mobile applications by designing effective test strategies, identifying defects, and improving product reliability.
+I am a **Software Quality Assurance (SQA) Engineer** with 1.5+ years of experience in **Manual Testing, Automation Testing, API Testing, and Agile Scrum**. I specialize in ensuring software quality across web and mobile applications by designing effective test strategies, identifying defects, and improving product reliability.
 
 Currently, I work as a **Junior SQA Engineer at Maze Digital**, where I test modern web and mobile applications across multiple industries including AI, Social Media, FinTech, ERP, Healthcare, Construction Safety, and eCommerce.
 
