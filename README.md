@@ -132,7 +132,7 @@ Currently, I work as a **Junior SQA Engineer at Maze Digital**, where I test mod
 - Admin Panel Testing
 - Blog & Subscription Testing
 
-### Knock Knock
+### Knock Knock V
 - Social Networking Application
 - Feed Testing
 - Chat Testing
